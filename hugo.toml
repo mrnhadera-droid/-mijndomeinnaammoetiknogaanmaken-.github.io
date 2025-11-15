@@ -1,0 +1,5 @@
+baseURL = "https://www.kompasvastgoedbeheer.com/"
+languageCode = "nl-nl"
+title = "Kompas Vastgoedbeheer"
+theme = "ananke"
+publishDir = "docs"
