@@ -3,3 +3,40 @@ languageCode = "nl-nl"
 title = "Kompas Vastgoedbeheer"
 theme = "ananke"
 publishDir = "docs"
+[params]
+  site_logo = "images/kompas_logo.png"
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Diensten"
+    url = "/diensten/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Onze missie"
+    url = "/missie/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Offerte aanvraag"
+    url = "/offerte/"
+    weight = 5
+
+  [[menu.main]]
+    name = "FAQ"
+    url = "/faq/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Inloggen Twinq portaal"
+    url = "https://twinq.nl"
+    weight = 7
